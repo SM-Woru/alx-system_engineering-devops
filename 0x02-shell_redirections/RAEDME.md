@@ -1,0 +1,1 @@
+scripts that is use to train on shell redirections
